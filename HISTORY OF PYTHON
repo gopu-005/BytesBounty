@@ -1,0 +1,7 @@
+HISTORY OF PYTHON
+Python was developed in the late 1980s, and its implementation began in December 1989 by Guido van Rossum at CWI in the Netherlands as a successor to ABC capable of managing exceptions and interacting with the Amoeba operating system. Van Rossum is Python's primary author, and his continued important role in determining Python's path is reflected in the Python community's designation of Benevolent Dictator for Life (BDFL). (However, on July 12, 2018, Van Rossum resigned as leader). Python was inspired by the BBC television show Monty Python's Flying Circus.
+
+Python 2.0 was released on October 16, 2000, and included numerous significant new features, such as a cycle-detecting garbage collector (in addition to reference counting) for memory management and Unicode support. The most significant change, though, was to the development process itself, with a transition to a more public and community-supported method.
+
+Python 3.0, a significant, backwards-incompatible update, was released on December 3, 2008, following a lengthy testing phase. Many of its important features have also been backported to Python 2.6 and 2.7, which are backwards compatible but no longer supported.
+source : wikipedia
